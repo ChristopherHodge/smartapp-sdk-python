@@ -1,0 +1,7 @@
+.python
+.install
+.dev_install
+__pycache__
+*.egg-info
+dist
+build
